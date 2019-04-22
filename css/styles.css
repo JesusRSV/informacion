@@ -8,8 +8,7 @@ p {
   font-size: 15px;
   line-height: 29px;
   color: rgba(28, 54, 83, 0.6);
-  padding-bottom: 20px; }
-
+}
 h1 {
   font-size: 60px; }
 
@@ -351,6 +350,21 @@ Menu
 /* ==========================================================================
 Hero
 ========================================================================== */
+.tamano-h {
+  height: 200px;
+}
+.h-200 {
+  height: 200px;
+}
+#myProgress {
+  width: 100%;
+  background-color: #373D4A;
+}
+
+#myBar {
+  height: 10px;
+  background-color: #FF5274;
+}
 .hero {
   min-height: 750px;
   background: url("../img/hero.jpg") center center;
